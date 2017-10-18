@@ -4,6 +4,8 @@
 
 - [Machine Learning](#machine-learning)
 - [Deep Learning](#deep-learning)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Learning Theory](#learning-theory)
 
 
 ## Machine Learning
@@ -40,10 +42,23 @@ For deep RL, lectures and tutorials are
 
 ### Textbook
 - Reinforcement Learning: An Introduction (Sutton & Barto) :sparkles:
-- Algorithms for Reinforcement Learning (Szepesvari)
+- Algorithms for Reinforcement Learning (Szepesv\'ari)
 - Dynamic Programming and Optimal Control (Bertsekas)
 
 ### Lecture
 - [UCL Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 - [Berkeley CS294 Deep Reinforcement Leanring](http://rll.berkeley.edu/deeprlcourse/)
 - [CMU 10703 Deep Reinforcement Learing and Control](https://katefvision.github.io/)
+
+
+## Learning Theory
+
+### Textbook
+- Learning from Data (Abu-Mostafa)
+- Understanding Machine Learning: From Theory to Algorithms (Shalev-Shwartz & Ben-David)
+- An Introduction to Computational Learning Theory (Kearns & Vazirani)
+
+### Lecture
+- [Caltech Learning from Data](https://work.caltech.edu/telecourse.html)
+- [CMU Machine Learning Theory](http://www.cs.cmu.edu/~avrim/ML14/)
+- [UPenn Stat928 Statistical Learning Theory](http://stat.wharton.upenn.edu/~skakade/courses/stat928/)
