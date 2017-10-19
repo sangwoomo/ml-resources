@@ -11,8 +11,8 @@ Very personal and biased recommendation of ML resources. <br/>
 - [Optimization](#optimization)
 - [Learning Theory](#learning-theory)
 - [Statistics](#statistics)
-- [Some Related Topics](#some-related-topics)
-- [Some Math Backgrounds](#some-math-backgrounds)
+- [Other Related Topics](#other-related-topics)
+- [Math Backgrounds](#math-backgrounds)
 - [For Math Geeks](#for-math-geeks)
 
 
@@ -136,7 +136,7 @@ For multi-armed bandit problem, Bubeck & Cesa-Bianchi is a good survey.
 
 ## Statistics
 There are many good books for Statistics; hence, I selected only a few among them. <br/>
-Probability theory books are listed in [math backgrounds](#some-math-backgrounds).
+Probability theory books are listed in [math backgrounds](#math-backgrounds).
 
 ### Textbook (Statistical Inference)
 - All of Statistics (Wasserman)
@@ -158,7 +158,7 @@ Probability theory books are listed in [math backgrounds](#some-math-backgrounds
 - [Stanford Stat300a Theory of Statistics](https://web.stanford.edu/~lmackey/stats300a/)
 
 
-## Some Related Topics
+## Other Related Topics
 
 ### Information Theory
 - Elements of Information Theory (Cover & Thomas)
@@ -184,7 +184,7 @@ Probability theory books are listed in [math backgrounds](#some-math-backgrounds
 - Approximation Algorithms (Vazirani)
 
 
-## Some Math Backgrounds
+## Math Backgrounds
 
 ### Probability & Analysis
 - Rudin series & Stein series
