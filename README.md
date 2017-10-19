@@ -127,7 +127,6 @@ For online learning, Cesa-Bianchi & Lugosi is the classic.
 - [Caltech Learning from Data](https://work.caltech.edu/telecourse.html)
 - [CMU 15859 Machine Learning Theory](http://www.cs.cmu.edu/~avrim/ML14/)
 - [Berkeley CS281b/Stat241b Statistical Learning Theory](https://www.stat.berkeley.edu/~bartlett/courses/2014spring-cs281bstat241b/)
-- [UPenn Stat928 Statistical Learning Theory](http://stat.wharton.upenn.edu/~skakade/courses/stat928/)
 
 
 ## Statistics
