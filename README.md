@@ -147,7 +147,7 @@ Probability Theory books are listed in [math backgrounds](#math-backgrounds).
 - Gaussian Process and Machine Learning (Rasmussen & Williams)
 - Bayesian Nonparametrics (Ghosh & Ramamoorthi)
 
-### Textbook (More Topics)
+### Textbook (Other Topics)
 - Time Series Analysis and Its Applications (Shumway & Stoffer)
 - Statistics for High-Dimensional Data (Bühlmann & van de Geer)
 - Introduction to Nonparametric Estimation (Tsybakov)
@@ -178,7 +178,7 @@ Probability Theory books are listed in [math backgrounds](#math-backgrounds).
 - A First Course in Combinatorial Optimization (Lee)
 - Combinatorial Optimization (Cook et al.)
 
-### Algorithm & Computation Theory
+### Algorithm
 - Introduction to Algorithms (Cormen et al.)
 - Randomized Algorithms (Motwani & Raghavan)
 - Approximation Algorithms (Vazirani)
