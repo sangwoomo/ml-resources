@@ -136,7 +136,7 @@ For multi-armed bandit problem, Bubeck & Cesa-Bianchi is a good survey.
 
 ## Statistics
 There are many good books for Statistics; hence, I selected only a few among them. <br/>
-Probability theory books are listed in [math backgrounds](#math-backgrounds).
+Probability Theory books are listed in [math backgrounds](#math-backgrounds).
 
 ### Textbook (Statistical Inference)
 - All of Statistics (Wasserman)
