@@ -10,6 +10,7 @@ Very personal and biased recommendation of ML resources. <br/>
 - [Graphical Model](#graphical-model)
 - [Optimization](#optimization)
 - [Learning Theory](#learning-theory)
+- [Statistics](#statistics)
 - [Some Related Topics](#some-related-topics)
 - [Some Math Backgrounds](#some-math-backgrounds)
 - [For Math Geeks](#for-math-geeks)
@@ -72,7 +73,7 @@ Koller & Friedman is comprehensive, but too encyclopedic. <br/>
 I recommend to take an introductory course using Koller & Friedman book. <br/>
 
 Wainwright & Jordan only focuses on variational inference, <br/>
-but it is must-read book for probabilistic model, e.g. generative model.
+but it is must-read book for probabilistic inference, e.g. generative model.
 
 ### Textbook
 - Probabilistic Graphical Models: Principles and Techniques (Koller & Friedman)
@@ -134,6 +135,30 @@ For multi-armed bandit problem, Bubeck & Cesa-Bianchi is a good survey.
 - [UPenn Stat928 Statistical Learning Theory](http://stat.wharton.upenn.edu/~skakade/courses/stat928/)
 
 
+## Statistics
+There are many good books for Statistics; hence, I selected only a few among them. <br/>
+Probability theory books are listed in [math backgrounds](#some-math-backgrounds).
+
+### Textbook (Statistical Inference)
+- All of Statistics (Wasserman)
+- All of Nonparametric Statistics (Wasserman)
+- Computer Age Statistical Inference (Efron & Hastie)
+
+### Textbook (Bayesian Nonparametrics)
+- Gaussian Process and Machine Learning (Rasmussen & Williams)
+- Bayesian Nonparametrics (Ghosh & Ramamoorthi)
+
+### Textbook (More Topics)
+- Time Series Analysis and Its Applications (Shumway & Stoffer)
+- Statistics for High-Dimensional Data (Bühlmann & van de Geer)
+- Introduction to Nonparametric Estimation (Tsybakov)
+
+### Lecture
+- [Berkeley Stat210a Theoretical Statistics](https://www.stat.berkeley.edu/~wfithian/courses/stat210a/)
+- [Berkeley Stat210b Theoretical Statistics](https://people.eecs.berkeley.edu/~jordan/courses/210B-spring17/)
+- [Stanford Stat300a Theory of Statistics](https://web.stanford.edu/~lmackey/stats300a/)
+
+
 ## Some Related Topics
 
 ### Information Theory
@@ -157,17 +182,36 @@ For multi-armed bandit problem, Bubeck & Cesa-Bianchi is a good survey.
 - Introduction to the Theory of Computation (Sipser)
 - Computational Complexity: A Modern Approach (Arora & Barak)
 
+### Combinatorics & Combinatorial Optimization
+- The Probabilistic Method (Alon & Spencer)
+- A First Course in Combinatorial Optimization (Lee)
+- Combinatorial Optimization (Cook et al.)
+
 
 ## Some Math Backgrounds
 
-### Analysis
+### Probability & Analysis
 - Rudin series & Stein series
+- Probability: Theory and Examples (Durrett)
+- Theoretical Statistics (Keener)
+- Stochastic Processes (Bass)
+
+### Linear Algebra
+- Linear Algebra (Hoffman & Kunze)
+- Matrix Analysis (Horn & Johnson)
+- Matrix Computations (Golub & Van Loan)
+- The Matrix Cookbook (Petersen & Pedersen)
+
+### Large Deviations Theory
+- Large Deviations Techniques and Applications (Dembo & Zeitouni)
+- An Introduction to Matrix Concentration Inequalities (Tropp)
+- Topics in Random Matrix Theory (Tao)
 
 
 ## For Math Geeks
-Miscellaneous topics, which I will cover later.
+Miscellaneous topics for math geeks.
 
-### Textbook
+### Topics for Math Geeks
 - Topology for Computing (Zomorodian)
 - Methods of Information Geometry (Amari & Nagaoka)
 - Algebraic Geometry and Statistical Learning Theory (Watanabe)
