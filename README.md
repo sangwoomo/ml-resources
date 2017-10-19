@@ -1,4 +1,4 @@
-# Some resources for Machine Learning
+# Some resources for ML research
 
 Very personal and biased selection of ML resources.
 
