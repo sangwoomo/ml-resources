@@ -199,7 +199,6 @@ Probability Theory books are listed in [math backgrounds](#math-backgrounds).
 ### Large Deviations
 - Large Deviations Techniques and Applications (Dembo & Zeitouni)
 - An Introduction to Matrix Concentration Inequalities (Tropp)
-- Topics in Random Matrix Theory (Tao)
 
 
 ## For Math Geeks
