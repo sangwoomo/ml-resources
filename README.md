@@ -162,7 +162,6 @@ Probability Theory books are listed in [math backgrounds](#math-backgrounds).
 ### Network Science
 - Networks, Crowds, and Markets (Easley & Kleinberg)
 - Network Science (Barabási)
-- Random Graphs (Bollobás)
 
 ### Game Theory
 - Algorithmic Game Theory (Nisan et al.)
@@ -193,7 +192,11 @@ Probability Theory books are listed in [math backgrounds](#math-backgrounds).
 - Matrix Computations (Golub & Van Loan)
 - The Matrix Cookbook (Petersen & Pedersen)
 
-### Large Deviations Theory
+### Markov Chain
+- Markov Chains (Norris)
+- Markov Chains and Mixing Times (Levin et al.)
+
+### Large Deviations
 - Large Deviations Techniques and Applications (Dembo & Zeitouni)
 - An Introduction to Matrix Concentration Inequalities (Tropp)
 - Topics in Random Matrix Theory (Tao)
