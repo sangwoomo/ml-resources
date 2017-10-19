@@ -1,6 +1,7 @@
 # Some resources for Machine Learning
 
-Very personal and biased recommendation of ML resources.
+Very personal and biased recommendation of ML resources. <br/>
+**Disclaimer**: I'm a noivce in ML research, and I read only a few of the list.
 
 ## Table of Contents
 - [Machine Learning](#machine-learning)
@@ -10,6 +11,8 @@ Very personal and biased recommendation of ML resources.
 - [Optimization](#optimization)
 - [Learning Theory](#learning-theory)
 - [Online Learning](#online-learning)
+- [Information Theory](#information-theory)
+- [Network Science](#network-science)
 
 
 ## Machine Learning
@@ -31,7 +34,7 @@ I recommend to take a course using Murphy or Bishop book.
 
 ## Deep Learning
 Goodfellow et al. is new classic. <br/>
-For CNN (vision) and RNN (NLP), Stanford lectures would be helpful.
+For vision and NLP, Stanford lectures would be helpful.
 
 ### Textbook
 - Deep Learning (Goodfellow et al.) :sparkles:
@@ -47,11 +50,11 @@ For CNN (vision) and RNN (NLP), Stanford lectures would be helpful.
 
 ## Reinforcement Learning
 For classic (non-deep) RL, Sutton & Barto is classic. <br/>
-For deep RL, lectures from Berkeley and CMU looks good.
+For deep RL, lectures and tutorials would be better.
 
 ### Textbook
 - Reinforcement Learning: An Introduction (Sutton & Barto) :sparkles:
-- Algorithms for Reinforcement Learning (Szepesvari)
+- Algorithms for Reinforcement Learning (Szepesvári)
 - Dynamic Programming and Optimal Control (Bertsekas)
 
 ### Lecture
@@ -113,7 +116,7 @@ Abu-Mostafa and Shalev-Shwartz & Ben-David is enough to grasp the concept.
 
 ### Lecture
 - [Caltech Learning from Data](https://work.caltech.edu/telecourse.html)
-- [CMU Machine Learning Theory](http://www.cs.cmu.edu/~avrim/ML14/)
+- [CMU 15859 Machine Learning Theory](http://www.cs.cmu.edu/~avrim/ML14/)
 
 
 ## Online Learning
@@ -129,10 +132,23 @@ Cesa-Bianchi & Lugosi is classic. <br/>
 
 ## Information Theory
 Cover & Thomas is classic. <br/>
-Mackay covers both information theory and machine learning.
 
 ### Textbook
 - Elements of Information Theory (Cover & Thomas) :sparkles:
 - Information Theory, Inference, and Learning Algorithms (MacKay)
 
 ### Lecture
+- [Stanford EE376a Information Theory](http://web.stanford.edu/class/ee376a/)
+- [Cambridge Information Theory, Pattern Recognition, and Neural Networks](http://www.inference.org.uk/itprnn/)
+
+
+## Network Science
+Easley & Kleinberg is classic.
+
+### Textbook
+- Networks, Crowds, and Markets (Easley & Kleinberg)
+- Network Science (Barabási)
+- Random Graphs (Bollobás)
+
+### Lecture
+- [Stanford CS224w Analysis of Networks](http://web.stanford.edu/class/cs224w/)
