@@ -89,12 +89,11 @@ but it's must-read book for probabilistic inference, e.g. generative model.
 Boyd & Vandenberghe is the classic, but I think it's too boring. <br/>
 Reading chapter 2-5 and understanding Fenchel's duality would be enough.
 
-Rockafellar and Bertsekas more concentrates on convex analysis. <br/>
+Bertsekas more concentrates on convex analysis. <br/>
 Nocedal & Wright more concentrates on optimization.
 
 ### Textbook
 - Convex Optimization (Boyd & Vandenberghe) :sparkles:
-- Convex Analysis (Rockafellar)
 - Convex Optimization Theory (Bertsekas)
 - Numerical Optimization (Nocedal & Wright)
 
@@ -120,7 +119,6 @@ For online learning, Cesa-Bianchi & Lugosi is the classic.
 ### Textbook (Learning Theory)
 - Learning from Data (Abu-Mostafa)
 - Foundations of Machine Learning (Mohri et al.)
-- Understanding Machine Learning: From Theory to Algorithms (Shalev-Shwartz & Ben-David)
 - An Introduction to Computational Learning Theory (Kearns & Vazirani) 
 
 ### Textbook (Online Learning)
