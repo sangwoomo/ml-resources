@@ -126,7 +126,6 @@ For multi-armed bandit problem, Bubeck & Cesa-Bianchi is a good survey.
 
 ### Textbook (Online Learning)
 - Prediction, Learning, and Games (Cesa-Bianchi & Lugosi)
-- Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit Problems (Bubeck & Cesa-Bianchi)
 
 ### Lecture
 - [Caltech Learning from Data](https://work.caltech.edu/telecourse.html)
