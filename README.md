@@ -109,8 +109,8 @@ Nocedal & Wright more concentrates on optimization.
 
 ## Learning Theory
 In my understanding, there are two fields in learning theory:
-- Learning Theory: VC-dimension, PAC bound, Rademacher complexity
-- Online Learning: regret bound, multi-armed bandit
+- **Learning Theory**: VC-dimension, PAC bound, Rademacher complexity
+- **Online Learning**: regret bound, multi-armed bandit
 
 For learning theory, Kearns & Vazirani is the classic; but it's too old-fashined. <br/>
 Abu-Mostafa is a good introductory book, and I think it's enough for most people.
