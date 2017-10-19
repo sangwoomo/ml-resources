@@ -61,7 +61,6 @@ For deep RL, lectures and tutorials would be better.
 
 ### Lecture
 - [UCL Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-- [Berkeley Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 - [Berkeley CS294 Deep Reinforcement Leanring](http://rll.berkeley.edu/deeprlcourse/)
 - [CMU 10703 Deep Reinforcement Learing and Control](https://katefvision.github.io/)
 
