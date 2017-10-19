@@ -7,6 +7,7 @@ Very personal and biased recommendation of ML resources.
 - [Deep Learning](#deep-learning)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Graphical Model](#graphical-model)
+- [Optimization](#optimization)
 - [Learning Theory](#learning-theory)
 - [Online Learning](#online-learning)
 
@@ -21,7 +22,6 @@ I recommend to take a course using Murphy or Bishop book.
 - The Elements of Statistical Learning (Hastie et al.)
 - Pattern Classification (Duda et al.)
 - Bayesian Reasoning and Machine Learning (Barber)
-- Information Theory, Inference, and Learning Algorithms (MacKay)
 
 ### Lecture
 - [Stanford CS229 Machine Learning](http://cs229.stanford.edu)
@@ -41,6 +41,9 @@ For CNN (vision) and RNN (NLP), Stanford lectures would be helpful.
 - [Stanfrod CS224d Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
 - [Oxford Deep Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/lectures)
 
+### Tutorial
+- [ICML 2017 Sequence-To-Sequence Modeling with Neural Networks](https://sites.google.com/view/seq2seq-icml17)
+
 
 ## Reinforcement Learning
 For classic (non-deep) RL, Sutton & Barto is classic. <br/>
@@ -48,13 +51,17 @@ For deep RL, lectures from Berkeley and CMU looks good.
 
 ### Textbook
 - Reinforcement Learning: An Introduction (Sutton & Barto) :sparkles:
-- Algorithms for Reinforcement Learning (Szepesv\'ari)
+- Algorithms for Reinforcement Learning (Szepesvari)
 - Dynamic Programming and Optimal Control (Bertsekas)
 
 ### Lecture
 - [UCL Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+- [Berkeley Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 - [Berkeley CS294 Deep Reinforcement Leanring](http://rll.berkeley.edu/deeprlcourse/)
 - [CMU 10703 Deep Reinforcement Learing and Control](https://katefvision.github.io/)
+
+### Tutorial
+- [ICML 2017 Deep Reinforcement Learning, Decision Making, and Control](https://sites.google.com/view/icml17deeprl)
 
 
 ## Graphical Model
@@ -73,9 +80,31 @@ but it is must-read book for probabilistic model, e.g. generative model.
 - [CMU 10708 Probabilistic Graphical Models](http://www.cs.cmu.edu/~epxing/Class/10708/)
 
 
+## Optimization
+Boyd & Vandenberghe is classic, but personally I think it is boring. <br/>
+Reading chapter 2-5 and understanding Fenchel's duality would be enough.
+
+Rockafellar and Bertsekas more concentrates on convex analysis. <br/>
+Nocedal & Wright more concentrates on optimization.
+
+### Textbook
+- Convex Optimization (Boyd & Vandenberghe) :sparkles:
+- Convex Analysis (Rockafellar)
+- Convex Optimization Theory (Bertsekas)
+- Numerical Optimization (Nocedal & Wright)
+
+### Lecture
+- [Stanford EE364a Convex Optimization I](http://stanford.edu/class/ee364a/)
+- [Stanford EE364b Convex Optimization II](http://stanford.edu/class/ee364a/)
+- [MIT Convex Analysis and Optimization](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-253-convex-analysis-and-optimization-spring-2012/index.htm)
+
+### Tutorial
+- [ICML 2017 Recent Advances in Stochastic Convex and Non-Convex Optimization](http://people.csail.mit.edu/zeyuan/topics/icml-2017)
+
+
 ## Learning Theory
-Kearns & Vazirani is classic, but personally I think it is too outdated. <br/>
-Abu-Mostafa and Shalev-Shwartz & Ben-David is enough to grasp the concept of learning theory.
+Kearns & Vazirani is classic, but personally I think it is old-fashioned. <br/>
+Abu-Mostafa and Shalev-Shwartz & Ben-David is enough to grasp the concept.
 
 ### Textbook
 - Learning from Data (Abu-Mostafa)
@@ -88,12 +117,22 @@ Abu-Mostafa and Shalev-Shwartz & Ben-David is enough to grasp the concept of lea
 
 
 ## Online Learning
-Cesa-Bianchi & Lugosi is the classic. <br/>
-Frankly speaking, I didn't read it yet; so cannot talk in detail.
+Cesa-Bianchi & Lugosi is classic. <br/>
 
 ### Textbook
-- Prediction, Learning, and Games (Cesa-Bianchi & Lugosi) :sparkles:
+- Prediction, Learning, and Games (Cesa-Bianchi & Lugosi)
 - Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit Problems (Bubeck & Cesa-Bianchi)
 
 ### Lecture
 - [UPenn Stat928 Statistical Learning Theory](http://stat.wharton.upenn.edu/~skakade/courses/stat928/)
+
+
+## Information Theory
+Cover & Thomas is classic. <br/>
+Mackay covers both information theory and machine learning.
+
+### Textbook
+- Elements of Information Theory (Cover & Thomas) :sparkles:
+- Information Theory, Inference, and Learning Algorithms (MacKay)
+
+### Lecture
