@@ -34,7 +34,7 @@ I recommend to take a course using Murphy or Bishop book.
 
 
 ## Deep Learning
-Goodfellow et al. is new classic. <br/>
+Goodfellow et al. is the new classic. <br/>
 For vision and NLP, Stanford lectures would be helpful.
 
 ### Textbook
