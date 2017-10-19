@@ -115,6 +115,7 @@ In my understanding, there are two fields in learning theory:
 For learning theory, Kearns & Vazirani is the classic; but it's too old-fashined. <br/>
 Personally, I prefer recent books like Shalev-Shwartz & Ben-David. <br/>
 Abu-Mostafa is a good introductory book, and I think it's enough for most people. <br/>
+
 For online learning, Cesa-Bianchi & Lugosi is the classic.
 
 ### Textbook (Learning Theory)
