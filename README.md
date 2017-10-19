@@ -174,18 +174,15 @@ Probability theory books are listed in [math backgrounds](#some-math-backgrounds
 - Algorithmic Game Theory (Nisan et al.)
 - Multiagent Systems (Shoham & Leyton-Brown)
 
+### Combinatorics
+- The Probabilistic Method (Alon & Spencer)
+- A First Course in Combinatorial Optimization (Lee)
+- Combinatorial Optimization (Cook et al.)
+
 ### Algorithm & Computation Theory
 - Introduction to Algorithms (Cormen et al.)
 - Randomized Algorithms (Motwani & Raghavan)
 - Approximation Algorithms (Vazirani)
-- Parameterized Algorithms (Cygan et al.)
-- Introduction to the Theory of Computation (Sipser)
-- Computational Complexity: A Modern Approach (Arora & Barak)
-
-### Combinatorics & Combinatorial Optimization
-- The Probabilistic Method (Alon & Spencer)
-- A First Course in Combinatorial Optimization (Lee)
-- Combinatorial Optimization (Cook et al.)
 
 
 ## Some Math Backgrounds
