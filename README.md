@@ -107,7 +107,7 @@ Nocedal & Wright more concentrates on optimization.
 
 
 ## Learning Theory
-In my understanding, there are two things in learning theory:
+In my understanding, there are two fields in learning theory:
 - Learning Theory: VC-dimension, PAC bound, Rademacher complexity
 - Online Learning: regret bound, multi-armed bandit
 
