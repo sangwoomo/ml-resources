@@ -74,7 +74,7 @@ Koller & Friedman is comprehensive, but too encyclopedic. <br/>
 I recommend to take an introductory course using Koller & Friedman book. <br/>
 
 Wainwright & Jordan only focuses on variational inference, <br/>
-but it is must-read book for probabilistic inference, e.g. generative model.
+but it's must-read book for probabilistic inference, e.g. generative model.
 
 ### Textbook
 - Probabilistic Graphical Models: Principles and Techniques (Koller & Friedman)
