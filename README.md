@@ -10,9 +10,9 @@ Very personal and biased recommendation of ML resources. <br/>
 - [Graphical Model](#graphical-model)
 - [Optimization](#optimization)
 - [Learning Theory](#learning-theory)
-- [Online Learning](#online-learning)
-- [Information Theory](#information-theory)
-- [Network Science](#network-science)
+- [Some Related Topics](#some-related-topics)
+- [Some Math Backgrounds](#some-math-backgrounds)
+- [For Math Geeks](#for-math-geeks)
 
 
 ## Machine Learning
@@ -49,7 +49,7 @@ For vision and NLP, Stanford lectures would be helpful.
 
 
 ## Reinforcement Learning
-For classic (non-deep) RL, Sutton & Barto is classic. <br/>
+For classic (non-deep) RL, Sutton & Barto is the classic. <br/>
 For deep RL, lectures and tutorials would be better.
 
 ### Textbook
@@ -84,7 +84,7 @@ but it is must-read book for probabilistic model, e.g. generative model.
 
 
 ## Optimization
-Boyd & Vandenberghe is classic, but personally I think it is boring. <br/>
+Boyd & Vandenberghe is the classic, but I think it's too boring. <br/>
 Reading chapter 2-5 and understanding Fenchel's duality would be enough.
 
 Rockafellar and Bertsekas more concentrates on convex analysis. <br/>
@@ -99,56 +99,75 @@ Nocedal & Wright more concentrates on optimization.
 ### Lecture
 - [Stanford EE364a Convex Optimization I](http://stanford.edu/class/ee364a/)
 - [Stanford EE364b Convex Optimization II](http://stanford.edu/class/ee364a/)
-- [MIT Convex Analysis and Optimization](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-253-convex-analysis-and-optimization-spring-2012/index.htm)
+- [MIT 6.253 Convex Analysis and Optimization](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-253-convex-analysis-and-optimization-spring-2012/index.htm)
 
 ### Tutorial
 - [ICML 2017 Recent Advances in Stochastic Convex and Non-Convex Optimization](http://people.csail.mit.edu/zeyuan/topics/icml-2017)
 
 
 ## Learning Theory
-Kearns & Vazirani is classic, but personally I think it is old-fashioned. <br/>
-Abu-Mostafa and Shalev-Shwartz & Ben-David is enough to grasp the concept.
+In my understanding, there are two things in learning theory:
+- Learning Theory: VC-dimension, PAC bound, Rademacher complexity
+- Online Learning: regret bound, multi-armed bandit
 
-### Textbook
+For learning theory, Kearns & Vazirani is the classic; but it's too old-fashined. <br/>
+Personally, I prefer recent books like Shalev-Shwartz & Ben-David. <br/>
+Abu-Mostafa is a good introductory book, and I think it's enough for most people.
+
+For online learning, Cesa-Bianchi & Lugosi is the classic. <br/>
+For multi-armed bandit problem, Bubeck & Cesa-Bianchi is a good survey.
+
+### Textbook (Learning Theory)
 - Learning from Data (Abu-Mostafa)
+- Foundations of Machine Learning (Mohri et al.)
 - Understanding Machine Learning: From Theory to Algorithms (Shalev-Shwartz & Ben-David)
 - An Introduction to Computational Learning Theory (Kearns & Vazirani) 
 
-### Lecture
-- [Caltech Learning from Data](https://work.caltech.edu/telecourse.html)
-- [CMU 15859 Machine Learning Theory](http://www.cs.cmu.edu/~avrim/ML14/)
-
-
-## Online Learning
-Cesa-Bianchi & Lugosi is classic. <br/>
-
-### Textbook
+### Textbook (Online Learning)
 - Prediction, Learning, and Games (Cesa-Bianchi & Lugosi)
 - Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit Problems (Bubeck & Cesa-Bianchi)
 
 ### Lecture
+- [Caltech Learning from Data](https://work.caltech.edu/telecourse.html)
+- [CMU 15859 Machine Learning Theory](http://www.cs.cmu.edu/~avrim/ML14/)
+- [Berkeley CS281b/Stat241b Statistical Learning Theory](https://www.stat.berkeley.edu/~bartlett/courses/2014spring-cs281bstat241b/)
 - [UPenn Stat928 Statistical Learning Theory](http://stat.wharton.upenn.edu/~skakade/courses/stat928/)
 
 
-## Information Theory
-Cover & Thomas is classic. <br/>
+## Some Related Topics
 
-### Textbook
-- Elements of Information Theory (Cover & Thomas) :sparkles:
+### Information Theory
+- Elements of Information Theory (Cover & Thomas)
 - Information Theory, Inference, and Learning Algorithms (MacKay)
 
-### Lecture
-- [Stanford EE376a Information Theory](http://web.stanford.edu/class/ee376a/)
-- [Cambridge Information Theory, Pattern Recognition, and Neural Networks](http://www.inference.org.uk/itprnn/)
-
-
-## Network Science
-Easley & Kleinberg is classic.
-
-### Textbook
+### Network Science
 - Networks, Crowds, and Markets (Easley & Kleinberg)
 - Network Science (Barabási)
 - Random Graphs (Bollobás)
 
-### Lecture
-- [Stanford CS224w Analysis of Networks](http://web.stanford.edu/class/cs224w/)
+### Game Theory
+- Algorithmic Game Theory (Nisan et al.)
+- Multiagent Systems (Shoham & Leyton-Brown)
+
+### Algorithm & Computation Theory
+- Introduction to Algorithms (Cormen et al.)
+- Randomized Algorithms (Motwani & Raghavan)
+- Approximation Algorithms (Vazirani)
+- Parameterized Algorithms (Cygan et al.)
+- Introduction to the Theory of Computation (Sipser)
+- Computational Complexity: A Modern Approach (Arora & Barak)
+
+
+## Some Math Backgrounds
+
+### Analysis
+- Rudin series & Stein series
+
+
+## For Math Geeks
+Miscellaneous topics, which I will cover later.
+
+### Textbook
+- Topology for Computing (Zomorodian)
+- Methods of Information Geometry (Amari & Nagaoka)
+- Algebraic Geometry and Statistical Learning Theory (Watanabe)
