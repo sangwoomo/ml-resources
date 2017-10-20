@@ -1,8 +1,8 @@
 # Some resources for ML research
 
-Very personal and biased selection of ML resources.
+Personal and biased selection of ML resources.
 
-**Disclaimer**: I'm a noivce in ML research, and I read only a few of the list.
+**Disclaimer:** I'm a noivce in ML research, and I read only a few of the list.
 
 ## Table of Contents
 - [Machine Learning](#machine-learning)
