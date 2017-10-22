@@ -197,8 +197,9 @@ Probability Theory books are listed in [math backgrounds](#math-backgrounds).
 - Markov Chains and Mixing Times (Levin et al.)
 
 ### Large Deviations
-- Large Deviations Techniques and Applications (Dembo & Zeitouni)
+- Concentration Inequalities and Martingale Inequalities (Chung & Lu)
 - An Introduction to Matrix Concentration Inequalities (Tropp)
+- Large Deviations Techniques and Applications (Dembo & Zeitouni)
 
 
 ## For Math Geeks
