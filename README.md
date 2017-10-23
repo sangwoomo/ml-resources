@@ -158,7 +158,6 @@ For advanced topics, lectures from Berkeley/Stanford/CMU/MIT looks really cool. 
 - All of Statistics (Wasserman)
 - Computer Age Statistical Inference (Efron & Hastie) :sparkles:
 - Time Series Analysis and Its Applications: With R Examples (Shumway & Stoffer)
-- Statistical Learning with Sparsity: The Lasso and Generalizations (Hastie et al.)
 
 ### Textbook (Nonparametrics)
 - All of Nonparametric Statistics (Wasserman)
