@@ -87,7 +87,7 @@ Koller & Friedman is comprehensive, but too encyclopedic. <br/>
 I recommend to take an introductory course using Koller & Friedman book. <br/>
 
 Wainwright & Jordan only focuses on variational inference, <br/>
-but it gives really good intuition for probabilistic inference.
+but it gives really good intuition for probabilistic models.
 
 ### Textbook
 - Probabilistic Graphical Models: Principles and Techniques (Koller & Friedman)
@@ -121,6 +121,7 @@ Nocedal & Wright more concentrates on optimization.
 
 ## Learning Theory
 In my understanding, there are two major topics in learning theory:
+
 - **Learning Theory:** VC-dimension, PAC-learning
 - **Online Learning:** regret bound, multi-armed bandit
 
@@ -147,14 +148,14 @@ For multi-armed bandit, Bubeck & Cesa-Bianchi provides a good survey.
 
 
 ## Statistics
-Statistics is a broad area; hence, I listed only a few introductory textbooks. <br/>
+Statistics is a broad area; hence, I listed only a few of them. <br/>
 For advanced topics, lectures from Berkeley/Stanford/CMU/MIT looks really cool. <br/>
-Personally, understanding lectures below is one of my goal during phD.
 
 ### Textbook (Statistical Inference)
 - All of Statistics (Wasserman)
 - Computer Age Statistical Inference (Efron & Hastie) :sparkles:
 - Time Series Analysis and Its Applications: With R Examples (Shumway & Stoffer)
+- Statistical Learning with Sparsity: The Lasso and Generalizations (Hastie et al.)
 
 ### Textbook (Nonparametrics)
 - All of Nonparametric Statistics (Wasserman)
@@ -163,7 +164,7 @@ Personally, understanding lectures below is one of my goal during phD.
 - Bayesian Nonparametrics (Ghosh & Ramamoorthi) :sparkles:
 
 ### Textbook (Advanced Topics)
-- High-Dimensional Statistics: A Non-Asymptotic Viewpoint (Wainwright)
+- High-Dimensional Statistics: A Non-Asymptotic Viewpoint (Wainwright) :sparkles:
 - Statistics for High-Dimensional Data (Bühlmann & van de Geer)
 - Asymptotic Statistics (van der Vaart)
 - Empirical Processes in M-Estimation (van der Vaart)
