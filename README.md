@@ -204,7 +204,6 @@ There are much more subfields, but I'll not list them all.
 ### Combinatorics
 - The Probabilistic Method (Alon & Spencer)
 - A First Course in Combinatorial Optimization (Lee)
-- Spectral Graph Theory (Chung)
 
 ### Algorithm
 - Introduction to Algorithms (Cormen et al.)
