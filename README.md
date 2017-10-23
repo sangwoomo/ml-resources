@@ -146,6 +146,9 @@ For multi-armed bandit, Bubeck & Cesa-Bianchi provides a good survey.
 - [Berkeley CS281b/Stat241b Statistical Learning Theory](https://www.stat.berkeley.edu/~bartlett/courses/2014spring-cs281bstat241b/)
 - [MIT 9.520 Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall15/)
 
+### Tutorial
+- [ICML 2017 Real World Interactive Learning](http://hunch.net/~rwil/)
+
 
 ## Statistics
 Statistics is a broad area; hence, I listed only a few of them. <br/>
@@ -216,6 +219,9 @@ There are much more subfields in machine learning, but I'll not list them all.
 ### Some Lectures
 - [MIT 18.409 Algorithmic Aspects of Machine Learning](http://people.csail.mit.edu/moitra/409.html)
 - [MIT 18.409 An Algorithmist's Toolkit](http://stellar.mit.edu/S/course/18/fa09/18.409/)
+
+### Tutorial
+- [ICML 2017 Robustness Meets Algorithms (and Vice-Versa)](http://people.csail.mit.edu/moitra/robusttutorial.html)
 
 
 ## Math Backgrounds
