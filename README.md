@@ -183,7 +183,7 @@ For advanced topics, lectures from Berkeley/Stanford/CMU/MIT looks really cool. 
 
 ## Topics in Machine Learning
 Miscellaneous topics related to machine learning. <br/>
-There are much more subfields in machine learning, but I'll not list them all.
+There are much more subfields, but I'll not list them all.
 
 ### Information Theory
 - Elements of Information Theory (Cover & Thomas)
