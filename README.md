@@ -141,7 +141,7 @@ For multi-armed bandit, Bubeck & Cesa-Bianchi provides a good survey.
 - Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit Problems (Bubeck & Cesa-Bianchi)
 
 ### Lecture
-- [Caltech Learning from Data](https://work.caltech.edu/telecourse.html)
+- [Caltech Learning from Data](https://work.caltech.edu/telecourse.html) :sparkles:
 - [CMU 15859 Machine Learning Theory](http://www.cs.cmu.edu/~avrim/ML14/)
 - [Berkeley CS281b/Stat241b Statistical Learning Theory](https://www.stat.berkeley.edu/~bartlett/courses/2014spring-cs281bstat241b/)
 - [MIT 9.520 Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall15/)
