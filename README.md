@@ -226,11 +226,11 @@ There are much more subfields, but I'll not list them all.
 I selected essential topics for machine learning. <br/>
 Personally, I think more analysis / matrix / geometry never hurts.
 
-### Probability & Analysis
-- Rudin series & Stein series
+### Probability
 - Probability: Theory and Examples (Durrett)
 - Theoretical Statistics (Keener)
 - Stochastic Processes (Bass)
+- Probability and Statistics Cookbook (Vallentin)
 
 ### Linear Algebra
 - Linear Algebra (Hoffman & Kunze)
