@@ -100,7 +100,7 @@ but it gives really good intuition for probabilistic models.
 
 ## Optimization
 Boyd & Vandenberghe is the classic, but I think it's too boring. <br/>
-Reading chapter 2-5 and understanding Fenchel's duality would be enough.
+Reading chapter 2-5 would be enough.
 
 Bertsekas more concentrates on convex analysis. <br/>
 Nocedal & Wright more concentrates on optimization.
