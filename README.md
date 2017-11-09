@@ -56,10 +56,12 @@ For vision and NLP, Stanford lectures would be helpful.
 ### Textbook
 - Deep Learning (Goodfellow et al.) :sparkles:
 
-### Lecture
+### Lecture (Practice)
 - [Stanford CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu) :sparkles:
 - [Stanfrod CS224d Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
 - [Oxford Deep Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/lectures)
+
+### Lecture (Theory)
 - [Stanford Stat385 Theories of Deep Learning](https://stats385.github.io/)
 
 ### Tutorial
@@ -191,7 +193,7 @@ There are much more subfields, but I'll not list them all.
 - Information Theory, Inference, and Learning Algorithms (MacKay)
 
 ### Network Science
-- Networks, Crowds, and Markets: Reasoning about a Highly Connected World (Easley & Kleinberg)
+- Networks, Crowds, and Markets (Easley & Kleinberg)
 - Social and Economic Networks (Jackson)
 
 ### Markov Chain
@@ -200,7 +202,7 @@ There are much more subfields, but I'll not list them all.
 
 ### Game Theory
 - Algorithmic Game Theory (Nisan et al.)
-- Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations (Shoham & Leyton-Brown)
+- Multiagent Systems (Shoham & Leyton-Brown)
 
 ### Combinatorics
 - The Probabilistic Method (Alon & Spencer)
@@ -258,7 +260,7 @@ Acknowledge to https://stats385.github.io/blogs.
 - Distill
 - Cambridge MLG
 
-## Persoanal Blog
+### Persoanal Blog
 - Andrej Karpathy
 - Colah
 - inFERENCe
