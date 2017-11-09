@@ -74,8 +74,6 @@ For deep RL, lectures from Berkeley/CMU looks good.
 
 ### Textbook
 - Reinforcement Learning: An Introduction (Sutton & Barto) :sparkles:
-- Algorithms for Reinforcement Learning (Szepesvári)
-- Dynamic Programming and Optimal Control (Bertsekas)
 
 ### Lecture
 - [UCL Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) :sparkles:
@@ -249,7 +247,7 @@ Personally, I think more analysis / matrix / geometry never hurts.
 
 
 ## Blogs
-**TBD**
+**TBD** <br/>
 Acknowledge to https://stats385.github.io/blogs.
 
 ### Research Group
