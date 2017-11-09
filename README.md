@@ -16,6 +16,7 @@ Personal and biased selection of ML resources.
 - [Statistics](#statistics)
 - [Topics in Machine Learning](#topics-in-machine-learning)
 - [Math Backgrounds](#math-backgrounds)
+- [Blogs](#blogs)
 
 
 ## Beginner's Guide
@@ -59,6 +60,7 @@ For vision and NLP, Stanford lectures would be helpful.
 - [Stanford CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu) :sparkles:
 - [Stanfrod CS224d Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
 - [Oxford Deep Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/lectures)
+- [Stanford Stat385 Theories of Deep Learning](https://stats385.github.io/)
 
 ### Tutorial
 - [ICML 2017 Sequence-To-Sequence Modeling with Neural Networks](https://sites.google.com/view/seq2seq-icml17)
@@ -242,3 +244,21 @@ Personally, I think more analysis / matrix / geometry never hurts.
 ### Large Deviations
 - Concentration Inequalities and Martingale Inequalities (Chung & Lu)
 - An Introduction to Matrix Concentration Inequalities (Tropp)
+
+
+## Blogs
+**TBD**
+Acknowledge to https://stats385.github.io/blogs.
+
+### Research Group
+- DeepMind Blog
+- OpenAI Blog
+- FAIR Blog
+- BAIR Blog
+- Distill
+- Cambridge MLG
+
+## Persoanal Blog
+- Andrej Karpathy
+- Colah
+- inFERENCe
