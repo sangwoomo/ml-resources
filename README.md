@@ -46,6 +46,7 @@ I recommend to take a course using Murphy or Bishop book.
 ### Lecture
 - [Stanford CS229 Machine Learning](http://cs229.stanford.edu) :sparkles:
 - [CMU 10701 Mahine Learning](http://www.cs.cmu.edu/~tom/10701_sp11/)
+- [CMU 10702 Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
 - [Oxford Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 
 
@@ -247,18 +248,24 @@ Personally, I think more analysis / matrix / geometry never hurts.
 
 
 ## Blogs
-**TBD** <br/>
 Acknowledge to https://stats385.github.io/blogs.
 
 ### Research Group
-- DeepMind Blog
-- OpenAI Blog
-- FAIR Blog
-- BAIR Blog
-- Distill
-- Cambridge MLG
+- [DeepMind Blog](https://deepmind.com/blog/?category=research)
+- [OpenAI Blog](https://blog.openai.com/)
+- [FAIR Blog](https://research.fb.com/blog/)
+- [BAIR Blog](http://bair.berkeley.edu/blog/)
+- [Distill.pub](https://distill.pub/)
+- [Columbia ML Seminar](https://casmls.github.io/)
+- [Mathematical Coffees](https://mathematical-coffees.github.io/)
 
 ### Persoanal Blog
-- Andrej Karpathy
-- Colah
-- inFERENCe
+- [Andrej Karpathy](http://karpathy.github.io/)
+- [Christopher Olah](http://colah.github.io/)
+- [inFERENCe](http://www.inference.vc/)
+- [Off the convex path](http://www.offconvex.org/)
+- [Math ∩ Programming](https://jeremykun.com/)
+- [Sebastian Ruder](http://ruder.io/#open)
+- [Hunch.net](http://hunch.net/)
+- [I’m a bandit](https://blogs.princeton.edu/imabandit/)
+- [Bandit Algorithms](http://banditalgs.com/)
