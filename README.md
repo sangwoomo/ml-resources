@@ -259,6 +259,7 @@ Acknowledge to https://stats385.github.io/blogs.
 - [Distill.pub](https://distill.pub/)
 - [Columbia ML Seminar](https://casmls.github.io/)
 - [Mathematical Coffees](https://mathematical-coffees.github.io/)
+- [Lunit Tech Blog (Korean)](https://blog.lunit.io/category/paper-review/)
 
 ### Persoanal Blog
 - [Andrej Karpathy](http://karpathy.github.io/)
