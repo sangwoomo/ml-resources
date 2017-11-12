@@ -268,6 +268,7 @@ Acknowledge to https://stats385.github.io/blogs.
 - [Off the convex path](http://www.offconvex.org/)
 - [Math ∩ Programming](https://jeremykun.com/)
 - [Sebastian Ruder](http://ruder.io/#open)
+- [Ruotian Luo](http://ruotianluo.github.io/)
 - [Hunch.net](http://hunch.net/)
 - [I’m a bandit](https://blogs.princeton.edu/imabandit/)
 - [Bandit Algorithms](http://banditalgs.com/)
