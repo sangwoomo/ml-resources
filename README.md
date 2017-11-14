@@ -269,6 +269,7 @@ Acknowledge to https://stats385.github.io/blogs.
 - [Math ∩ Programming](https://jeremykun.com/)
 - [Sebastian Ruder](http://ruder.io/#open)
 - [Ruotian Luo](http://ruotianluo.github.io/)
+- [Yingzhen Li](http://www.yingzhenli.net/home/blog/)
 - [Hunch.net](http://hunch.net/)
 - [I’m a bandit](https://blogs.princeton.edu/imabandit/)
 - [Bandit Algorithms](http://banditalgs.com/)
