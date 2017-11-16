@@ -9,6 +9,7 @@ Personal and biased selection of ML resources.
 - [Beginner's Guide](#beginners-guide)
 - [Machine Learning](#machine-learning)
 - [Deep Learning](#deep-learning)
+- [Generative Model](#generative-model)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Graphical Model](#graphical-model)
 - [Optimization](#optimization)
@@ -68,6 +69,15 @@ For vision and NLP, Stanford lectures would be helpful.
 
 ### Tutorial
 - [ICML 2017 Sequence-To-Sequence Modeling with Neural Networks](https://sites.google.com/view/seq2seq-icml17)
+
+
+## Generative Model
+I seperated generative model as an independent topic, <br/>
+since I think it is big and important area.
+
+### Lecture
+- [Toronto CSC2541 Differentiable Inference and Generative Models](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
+- [Toronto CSC2547 Learning Discrete Latent Structure](https://duvenaud.github.io/learn-discrete/)
 
 
 ## Reinforcement Learning
