@@ -63,6 +63,7 @@ For vision and NLP, Stanford lectures would be helpful.
 - [Stanfrod CS224d Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
 - [Stanfrod CS224s Spoken Language Processing](http://web.stanford.edu/class/cs224s/)
 - [Oxford Deep Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/lectures)
+- [CMU 11747 Neural Networks for NLP](http://phontron.com/class/nn4nlp2017/index.html)
 
 ### Lecture (Theory)
 - [Stanford Stat385 Theories of Deep Learning](https://stats385.github.io/)
