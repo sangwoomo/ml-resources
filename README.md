@@ -79,6 +79,7 @@ since I think it is big and important area.
 ### Lecture
 - [Toronto CSC2541 Differentiable Inference and Generative Models](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
 - [Toronto CSC2547 Learning Discrete Latent Structure](https://duvenaud.github.io/learn-discrete/)
+- [Toronto CSC2541 Scalable and Flexible Models of Uncertainty](https://csc2541-f17.github.io/)
 
 
 ## Reinforcement Learning
