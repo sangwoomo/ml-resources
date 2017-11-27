@@ -280,6 +280,7 @@ Acknowledge to https://stats385.github.io/blogs.
 - [Off the convex path](http://www.offconvex.org/)
 - [Math ∩ Programming](https://jeremykun.com/)
 - [Sebastian Ruder](http://ruder.io/#open)
+- [Dustin Tran](http://dustintran.com/blog/)
 - [Ruotian Luo](http://ruotianluo.github.io/)
 - [Yingzhen Li](http://www.yingzhenli.net/home/blog/)
 - [Hunch.net](http://hunch.net/)
