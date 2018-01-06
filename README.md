@@ -59,6 +59,7 @@ For vision and NLP, Stanford lectures would be helpful.
 - Deep Learning (Goodfellow et al.) :sparkles:
 
 ### Lecture (Practice)
+- [Deep Learning book](http://www.deeplearningbook.org/lecture_slides.html) :sparkles:
 - [Stanford CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu) :sparkles:
 - [Stanfrod CS224d Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
 - [Stanfrod CS224s Spoken Language Processing](http://web.stanford.edu/class/cs224s/)
