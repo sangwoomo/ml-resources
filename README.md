@@ -274,7 +274,7 @@ Acknowledge to https://stats385.github.io/blogs.
 - [Mathematical Coffees](https://mathematical-coffees.github.io/)
 - [Lunit Tech Blog (Korean)](https://blog.lunit.io/category/paper-review/)
 
-### Persoanal Blog
+### Personal Blog
 - [Andrej Karpathy](http://karpathy.github.io/)
 - [Christopher Olah](http://colah.github.io/)
 - [inFERENCe](http://www.inference.vc/)
