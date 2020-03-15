@@ -32,6 +32,11 @@ Personal and biased selection of ML resources.
 - Graphical Models, Exponential Families, and Variational Inference (Wainwright & Jordan)
 - Learning from Data (Abu-Mostafa) *-> for whom interested in learning theory*
 
+**Recent Topics**
+- Read research blogs (e.g., [OpenAI](https://blog.openai.com/), [BAIR](http://bair.berkeley.edu/blog/), [CMU](https://blog.ml.cmu.edu/))
+- Read lectures from Berkeley, Stanford, CMU or UofT (e.g., [unsupervised learning](https://sites.google.com/view/berkeley-cs294-158-sp19))
+- There are lots of good sources, but I stop updating them up-to-date
+
 
 ## Machine Learning
 There are many ML books, but most of them are encyclopedic. <br/>
@@ -69,9 +74,6 @@ For vision and NLP, Stanford lectures would be helpful.
 ### Lecture (Theory)
 - [Stanford Stat385 Theories of Deep Learning](https://stats385.github.io/)
 
-### Tutorial
-- [ICML 2017 Sequence-To-Sequence Modeling with Neural Networks](https://sites.google.com/view/seq2seq-icml17)
-
 
 ## Generative Model
 I seperated generative model as an independent topic, <br/>
@@ -94,9 +96,6 @@ For deep RL, lectures from Berkeley/CMU looks good.
 - [UCL Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) :sparkles:
 - [Berkeley CS294 Deep Reinforcement Leanring](http://rll.berkeley.edu/deeprlcourse/) :sparkles:
 - [CMU 10703 Deep Reinforcement Learing and Control](https://katefvision.github.io/)
-
-### Tutorial
-- [ICML 2017 Deep Reinforcement Learning, Decision Making, and Control](https://sites.google.com/view/icml17deeprl)
 
 
 ## Graphical Model
@@ -132,9 +131,6 @@ Nocedal & Wright more concentrates on optimization.
 - [Stanford EE364b Convex Optimization II](http://stanford.edu/class/ee364a/)
 - [MIT 6.253 Convex Analysis and Optimization](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-253-convex-analysis-and-optimization-spring-2012/index.htm)
 
-### Tutorial
-- [ICML 2017 Recent Advances in Stochastic Convex and Non-Convex Optimization](http://people.csail.mit.edu/zeyuan/topics/icml-2017)
-
 
 ## Learning Theory
 In my understanding, there are two major topics in learning theory:
@@ -162,9 +158,6 @@ For multi-armed bandit, Bubeck & Cesa-Bianchi provides a good survey.
 - [CMU 15859 Machine Learning Theory](http://www.cs.cmu.edu/~avrim/ML14/)
 - [Berkeley CS281b/Stat241b Statistical Learning Theory](https://www.stat.berkeley.edu/~bartlett/courses/2014spring-cs281bstat241b/)
 - [MIT 9.520 Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall15/)
-
-### Tutorial
-- [ICML 2017 Real World Interactive Learning](http://hunch.net/~rwil/)
 
 
 ## Statistics
@@ -235,10 +228,6 @@ There are much more subfields, but I'll not list them all.
 - [MIT 18.409 Algorithmic Aspects of Machine Learning](http://people.csail.mit.edu/moitra/409.html)
 - [MIT 18.409 An Algorithmist's Toolkit](http://stellar.mit.edu/S/course/18/fa09/18.409/)
 
-### Tutorial
-- [ICML 2017 Interpretable Machine Learning](http://people.csail.mit.edu/beenkim/icml_tutorial.html)
-- [ICML 2017 Robustness Meets Algorithms (and Vice-Versa)](http://people.csail.mit.edu/moitra/robusttutorial.html)
-
 
 ## Math Backgrounds
 I selected essential topics for machine learning. <br/>
@@ -262,28 +251,15 @@ Personally, I think more analysis / matrix / geometry never hurts.
 
 
 ## Blogs
-Acknowledge to https://stats385.github.io/blogs.
 
-### Research Group
+- [Google AI Blog](https://ai.googleblog.com/)
 - [DeepMind Blog](https://deepmind.com/blog/?category=research)
 - [OpenAI Blog](https://blog.openai.com/)
 - [FAIR Blog](https://research.fb.com/blog/)
-- [BAIR Blog](http://bair.berkeley.edu/blog/)
 - [Distill.pub](https://distill.pub/)
-- [Columbia ML Seminar](https://casmls.github.io/)
-- [Mathematical Coffees](https://mathematical-coffees.github.io/)
-- [Lunit Tech Blog (Korean)](https://blog.lunit.io/category/paper-review/)
-
-### Personal Blog
-- [Andrej Karpathy](http://karpathy.github.io/)
-- [Christopher Olah](http://colah.github.io/)
-- [inFERENCe](http://www.inference.vc/)
+- [BAIR Blog](http://bair.berkeley.edu/blog/)
+- [CMU Blog](https://blog.ml.cmu.edu/)
 - [Off the convex path](http://www.offconvex.org/)
-- [Math ∩ Programming](https://jeremykun.com/)
+- [inFERENCe](http://www.inference.vc/)
 - [Sebastian Ruder](http://ruder.io/#open)
-- [Dustin Tran](http://dustintran.com/blog/)
-- [Ruotian Luo](http://ruotianluo.github.io/)
-- [Yingzhen Li](http://www.yingzhenli.net/home/blog/)
-- [Hunch.net](http://hunch.net/)
-- [I’m a bandit](https://blogs.princeton.edu/imabandit/)
-- [Bandit Algorithms](http://banditalgs.com/)
+- [Lunit Tech Blog (Korean)](https://blog.lunit.io/category/paper-review/)
